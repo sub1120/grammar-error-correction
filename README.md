@@ -23,10 +23,10 @@ We have created a dataset of 500 erroneous sentences anotated with the grammar e
 # Evaluation results
 The erroneous sentences in dataset were used  to  evaluate  the  error  detection abilities  of  the  five  popular  grammar  checking  application.
 
-Application | Accuracy(%)
+Rank | Application | Accuracy(%)
 ------------ | -------------
-Grammarly | 44.4
-ProWrittingAid | 38.60
-LanguageTool | 36.00
-Ginger | 34.60
-After the deadline | 28.74
+1 | Grammarly | 44.40
+2 | ProWrittingAid | 38.60
+3 | LanguageTool | 36.00
+4 | Ginger | 34.60
+5 | After the deadline | 28.74
