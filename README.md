@@ -26,7 +26,7 @@ The erroneous sentences in dataset were used  to  evaluate  the  error  detectio
 Application | Accuracy(%)
 ------------ | -------------
 Grammarly | 44.4
-Ginger | 34.6 
-ProWrittingAid | 38.00
+ProWrittingAid | 38.60
 LanguageTool | 36.00
+Ginger | 34.60
 After the deadline | 28.74
