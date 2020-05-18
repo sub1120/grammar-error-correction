@@ -24,7 +24,7 @@ We have created a dataset of 500 erroneous sentences anotated with the grammar e
 The erroneous sentences in dataset were used  to  evaluate  the  error  detection abilities  of  the  five  popular  grammar  checking  application.
 
 Rank | Application | Accuracy(%)
------------- | -------------
+------|------ | -------------
 1 | Grammarly | 44.40
 2 | ProWrittingAid | 38.60
 3 | LanguageTool | 36.00
